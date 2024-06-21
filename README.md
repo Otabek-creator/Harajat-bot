@@ -1,2 +1,3 @@
 # Harajat-bot
-Bu bot yordamida kunlik harajatlaringgizni hisoblab borishinggiz mumkin.
+Bu bot yordamida harajatlaringgizni va daromadlaringgizni hisoblab borishinggiz mumkin.
+Bot o'zi sizlarga foyda yoki zararinggizni chiqarib beradi.
